@@ -1,0 +1,2 @@
+# odevv
+kod denemeleri
